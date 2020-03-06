@@ -1,5 +1,3 @@
-package org.d20.advantage;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
