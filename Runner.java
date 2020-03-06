@@ -1,5 +1,3 @@
-package org.d20.advantage;
-
 import java.math.BigDecimal;
 import java.util.LinkedList;
 
